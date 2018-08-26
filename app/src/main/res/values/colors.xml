@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="cyan"> #00FFFF</color>
+    <color name="lightCyan">#E0FFFF</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="aquamarin">#7FFFD4</color>
+    <color name="Torqouise">#40E0D0</color>
+    <color name="blue">#0000FF</color>
+    <color name="funchisa">#FF00FF</color>
+    <color name="darktorq">#48D1CC</color>
+    <color name="lightsee">#20B2AA</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="deepskyblue">	#00BFFF</color>
+    <color name="Deepskyblue">#00BFFF</color>
+</resources>
